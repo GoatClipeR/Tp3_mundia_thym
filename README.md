@@ -61,7 +61,7 @@ Ici on teste en ajoutant un produit par exemple
 ![Capture du TP](captures/img_10.png)
 
 Le produit est ajoute a la base directement 
-![Capture du TP](captures/img_12.png)
+![Capture du TP](captures/img_11.png)
 
 
 ## Conclusion
